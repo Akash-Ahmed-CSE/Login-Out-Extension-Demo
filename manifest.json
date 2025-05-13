@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Login Automation",
+  "version": "1.0",
+  "description": "Click popup to login automatically",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://www.saucedemo.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
