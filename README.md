@@ -13,3 +13,7 @@ This Chrome Extension automates the login and logout process for [saucedemo.com]
 
 ---
 
+
+https://github.com/user-attachments/assets/b074315c-d83d-4579-8443-89932b29da15
+
+
